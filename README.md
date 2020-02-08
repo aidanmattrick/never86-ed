@@ -9,7 +9,7 @@ While we knew that a production-ready MVP would require both image classificatio
 For this prototype, we built the backend in Ruby/Rails and the frontend in React. For the machine learning portions, Python (3) was used. 
 
 Our machine learning platform was TensorFlow. 
-We ended up applying transfer learning from ResNet50. We tried importing other models such as ResNet100, VGG16, Xception but had better results with ResNet50. 
+We ended up applying transfer learning from ResNet50. We tried importing other models such as ResNet100, VGG16, Xception but had better results with ResNet50. We also applied weights from Imagenet.
 
 We had best results when freezing the layers of the base model and adding two additional layers of 2000 nodes each and lowered the dropout rate between them (0.25).
 
