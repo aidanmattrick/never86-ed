@@ -1,4 +1,4 @@
-# README
+# Never86'ed Machine Learning Overview
 
 The purpose of this ReadMe is to provide more insight into the machine learning aspect of this project (August/September 2019) as part of my application to the MDS program.
 
