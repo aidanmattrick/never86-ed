@@ -1,6 +1,6 @@
 # Never86'ed Machine Learning Overview
 
-The purpose of this ReadMe is to provide more insight into the machine learning aspect of this project (August/September 2019) as part of my application to the MDS program.
+The purpose of this ReadMe is to provide more insight into the machine learning aspect of this project (August/September 2019).
 
 In order to create a prototype to see if this was a viable business, we want to create a simplified version to answer the questions of feasibility (technical aspects) and viability (business aspects).
 
