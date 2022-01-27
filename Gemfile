@@ -26,7 +26,7 @@ gem 'font-awesome-rails'
 
 # Use Active Storage variant
 gem 'image_processing', '~> 1.2'
-gem 'sidekiq', '~> 5.0', '>= 5.0.5'
+gem 'sidekiq', '~> 6.4'
 #gem 'rubypython', '~> 0.6.4'
 
 # Reduces boot times through caching; required in config/boot.rb
