@@ -25,7 +25,7 @@ gem 'exifr'
 gem 'font-awesome-rails'
 
 # Use Active Storage variant
-gem 'image_processing', '~> 1.2'
+gem 'image_processing', '~> 1.12'
 gem 'sidekiq', '~> 5.0', '>= 5.0.5'
 #gem 'rubypython', '~> 0.6.4'
 
